@@ -1,6 +1,6 @@
 ## Java Project
 
-#📌 Exercises Overview
+📌 Exercises Overview
 
 1️⃣ Sum of Digits in a Number
 
